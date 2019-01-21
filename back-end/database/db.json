@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "username": "testuser",
+      "password": "testpass",
+      "timestamp": 1548013713262,
+      "urls": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "urls": [
+    {
+      "id": 0,
+      "short": "orlbwG",
+      "long": "https://www.facebook.com/",
+      "timestamp": 1548028224474,
+      "meta": {
+        "title": "Facebook &#x2013; entre ou cadastre-se",
+        "description": "Crie uma conta ou entre no Facebook. Conecte-se com amigos, familiares e outras pessoas que você conheça. Compartilhe fotos e vídeos, envie mensagens e..."
+      },
+      "views": 1
+    },
+    {
+      "id": 1,
+      "short": "owz8xa",
+      "long": "https://www.google.com/",
+      "timestamp": 1548028248979,
+      "meta": {
+        "title": "Google",
+        "description": ""
+      },
+      "views": 0
+    },
+    {
+      "id": 2,
+      "short": "MsmuRg",
+      "long": "https://github.com/",
+      "timestamp": 1548028495574,
+      "meta": {
+        "title": "Build software better, together",
+        "description": "GitHub brings together the world’s largest community of developers to discover, share, and build better software. From open source projects to private team repositories, we’re your all-in-one platform for collaborative development."
+      },
+      "views": 0
+    },
+    {
+      "id": 3,
+      "short": "bWWlyq",
+      "long": "http://www.vanhack.com/",
+      "timestamp": 1548028517654,
+      "meta": {
+        "title": "Home | VanHack",
+        "description": "VanHack is a community of tech talent that is looking for a job abroad. We help companies hire amazing tech talent from all over the world."
+      },
+      "views": 1
+    },
+    {
+      "id": 4,
+      "short": "kXFCyw",
+      "long": "http://localhost:3000/",
+      "timestamp": 1548028813591,
+      "meta": {
+        "title": "Shortened App",
+        "description": ""
+      },
+      "views": 0
+    }
+  ]
+}
