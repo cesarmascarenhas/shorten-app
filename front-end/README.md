@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 For definition, projects in React are already modular and easily extensible.
 
-Here, it utilizes redux for the app global state and data control. Universal fail messages, user logis, urls, etc.
+Here, it utilizes redux for the app global state and data control. Universal fail messages, user login, urls, etc.
 
 
 # Install and Run project
